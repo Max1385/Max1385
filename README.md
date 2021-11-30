@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hello!
 
-<!--
-**Max1385/Max1385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 › I'm Max and I like to make Discord bots!
 
-Here are some ideas to get you started:
+👤 › I have a Discord server with over 1000 users!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 › Discord.js Developer
+
+📋 › When I start something, I see it through to the end!
+
+😁 › He/Him
+
+📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
+
+
+
