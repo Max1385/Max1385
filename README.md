@@ -6,11 +6,11 @@
   
 > ┏🌏 › I'm Max and I like to make Discord bots!
 
-> ┣👤 › I have a Discord server with over 1000 users!
+ ┣👤 › I have a Discord server with over 1000 users!
 
-> ┣🔨 › Discord.js Developer
+ ┣🔨 › Discord.js Developer
 
-> ┗📌 › Joined Discord: 2019
+ ┗📌 › Joined Discord: 2019
   
  
   
