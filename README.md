@@ -5,8 +5,6 @@
 > <h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
 <p align="left">
   
-  ###Hier ist dann wahrscheinlich darunter der Strich
-  
   
  ┏🌏 › I'm Max and I like to make Discord bots!
 
@@ -71,6 +69,8 @@
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
 ---------
+
+  ### Hier ist dann wahrscheinlich darunter der Strich
 
 
 
