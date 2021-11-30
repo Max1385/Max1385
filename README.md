@@ -13,7 +13,7 @@
 ┗📌 › Joined Discord: 2019
   
   
-<h3 align="left">😎 〢 My Discord Server 〢 😎</h3>
+<h3 align="left">📡 〢 My Discord Server 〢📡</h3>
 <p align="left">
  
  ![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
