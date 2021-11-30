@@ -38,6 +38,28 @@
   
   
 <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">📧 〢 Contact me 〢📧</h3>
+<p align="left">
+  
+🗴 Contact me on Discord!
+  
+🗴 I will try to give you an answer to your question as soon as possible!
+  
+🗴 My Discord: Max ツ#1385
+  
+🗴 Send me a friend request or a direct message!
+  
+<p align="left"> <a href="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/05/discord-logo.jpg" target="_blank" rel="noreferrer"> <img src="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/05/discord-logo.jpg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+
+  
+  
+
+  
+  
   
  
   
