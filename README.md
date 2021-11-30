@@ -12,6 +12,8 @@
 
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
 
+![serverbanner_gc (2)](https://user-images.githubusercontent.com/91845380/144060965-0541b295-516e-4f44-9b76-054da211e61f.jpg)
+
 
 
 
