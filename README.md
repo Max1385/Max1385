@@ -1,5 +1,8 @@
 ![serverbanner_gc (2)](https://user-images.githubusercontent.com/91845380/144060965-0541b295-516e-4f44-9b76-054da211e61f.jpg)
 
+> <h3 align="left"> Hi, I'm Max and I like to code Discord bots! In the following you can see my "About me 🔮</h3>
+<p align="left">
+
 ---------
 
 > <h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
@@ -69,8 +72,6 @@
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
 ---------
-
-  ### Hier ist dann wahrscheinlich darunter der Strich
 
 
 
