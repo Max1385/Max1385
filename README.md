@@ -4,7 +4,8 @@
 
 > <h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
 <p align="left">
-  _________
+  
+  ###Hier ist dann wahrscheinlich darunter der Strich
   
   
  ┏🌏 › I'm Max and I like to make Discord bots!
