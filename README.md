@@ -1,7 +1,7 @@
 ![serverbanner_gc (2)](https://user-images.githubusercontent.com/91845380/144060965-0541b295-516e-4f44-9b76-054da211e61f.jpg)
 
-> <h3 align="left"> Hi, I'm Max and I like to code Discord bots! In the following you can see my "About me 🔮</h3>
-<p align="left">
+### Hi, I'm Max and I like to code Discord bots! In the following you can see my "About me 🔮
+
 
 ---------
 
