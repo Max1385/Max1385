@@ -51,7 +51,7 @@
   
 🗴 Send me a friend request or a direct message!
   
-<p align="left"> <a href="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" target="_blank" rel="noreferrer"> <img src="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" alt="javascript" width="100" height="100"/> </a> </p>
+<p align="left"> <a href="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" target="_blank" rel="noreferrer"> <img src="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" alt="javascript" width="400" height="100"/> </a> </p>
 
 
 
