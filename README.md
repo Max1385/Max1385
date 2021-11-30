@@ -12,6 +12,8 @@
 
  ┗📌 › Joined Discord: 2019
   
+  ---------
+  
  
   
 > <h3 align="left">📡 〢 My Discord Server 〢📡</h3>
