@@ -51,7 +51,7 @@
   
 🗴 Send me a friend request or a direct message!
   
-<p align="left"> <a href="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/05/discord-logo.jpg" target="_blank" rel="noreferrer"> <img src="https://www.designtagebuch.de/wp-content/uploads/mediathek//2021/05/discord-logo.jpg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" target="_blank" rel="noreferrer"> <img src="https://logosmarken.com/wp-content/uploads/2020/12/Discord-Emblem.png" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 
