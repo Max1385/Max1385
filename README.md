@@ -10,7 +10,11 @@
 
 ┣🔨 › Discord.js Developer
 
-┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
+┗📌 › Joined Discord: 2019
+  
+  
+<h3 align="left">😎 〢 My Discord Server 〢 😎</h3>
+<p align="left">
   
  <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="300" height="200"/> </a> </p>
  
