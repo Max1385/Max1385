@@ -21,12 +21,14 @@
 <h3 align="left">🌏 〢 My Discord Bot 〢🌏</h3>
 <p align="left">
   
-➥ @Earth Bot`🗴!
+➥ @Earth Bot`🗴!                                                                    ![PicsArt_10-08-01 58 09 (2)](https://user-images.githubusercontent.com/91845380/144064831-a8174a7f-1228-45df-bdc1-07740d1c9ae3.jpg)
 With this bot you have access to cool fun commands like huge kiss kill and so on!
 ➥ Moderation and Epic Fun!
 ➥ Utility!
 ➥ Dynamic server stats, first message and so on!
 ➥ Library Commands ( userinfo, avatar etc.)!
+  
+  
   
   
 
