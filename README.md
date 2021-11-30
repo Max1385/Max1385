@@ -12,11 +12,11 @@
 
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
   
- <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="70" height="60"/> </a> </p>
+ <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="80" height="80"/> </a> </p>
 
 
 <h3 align="left">👾 〢 Programming language 👾 〢</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> </p>
 
 
 <h3 align="left">🌏 〢 My Discord Bot 〢🌏</h3>
@@ -37,7 +37,7 @@
 🔗 ➥ Invite now: https://dsc.gg/earthbooat
   
   
-<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="100" height="100"/> </a> </p>
+<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="200" height="200"/> </a> </p>
 
 
 <h3 align="left">📧 〢 Contact me 〢📧</h3>
