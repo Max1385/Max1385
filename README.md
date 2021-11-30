@@ -3,8 +3,7 @@
 <h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
 <p align="left">
   
-👋 Hello!
-
+  
 ┏🌏 › I'm Max and I like to make Discord bots!
 
 ┣👤 › I have a Discord server with over 1000 users!
@@ -27,6 +26,8 @@ With this bot you have access to cool fun commands like huge kiss kill and so on
 ➥ Utility!
 ➥ Dynamic server stats, first message and so on!
 ➥ Library Commands ( userinfo, avatar etc.)!
+  
+🔗 ➥ Invite now: https://dsc.gg/earthbooat
   
  
   
