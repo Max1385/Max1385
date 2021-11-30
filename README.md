@@ -1,18 +1,18 @@
 ![serverbanner_gc (2)](https://user-images.githubusercontent.com/91845380/144060965-0541b295-516e-4f44-9b76-054da211e61f.jpg)
 
-<h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
+> <h3 align="left">⭐️ 〢 About me 〢⭐️</h3>
 <p align="left">
   
   
-┏🌏 › I'm Max and I like to make Discord bots!
+> ┏🌏 › I'm Max and I like to make Discord bots!
 
-┣👤 › I have a Discord server with over 1000 users!
+> ┣👤 › I have a Discord server with over 1000 users!
 
-┣🔨 › Discord.js Developer
+> ┣🔨 › Discord.js Developer
 
-┗📌 › Joined Discord: 2019
+> ┗📌 › Joined Discord: 2019
   
- > 
+ 
   
 <h3 align="left">📡 〢 My Discord Server 〢📡</h3>
 <p align="left">
