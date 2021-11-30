@@ -57,6 +57,7 @@
   
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
+> test
 
 
 
