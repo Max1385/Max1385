@@ -37,7 +37,7 @@
 🔗 ➥ Invite now: https://dsc.gg/earthbooat
   
   
-<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="200" height="400"/> </a> </p>
 
 
 <h3 align="left">📧 〢 Contact me 〢📧</h3>
