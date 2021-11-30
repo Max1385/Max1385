@@ -21,10 +21,15 @@
 <p align="left">
   
 ➥ @Earth Bot`🗴!  
-With this bot you have access to cool fun commands like huge kiss kill and so on!
+  
+➥ With this bot you have access to cool fun commands like huge kiss kill and so on!
+  
 ➥ Moderation and Epic Fun!
+  
 ➥ Utility!
+  
 ➥ Dynamic server stats, first message and so on!
+  
 ➥ Library Commands ( userinfo, avatar etc.)!
   
 🔗 ➥ Invite now: https://dsc.gg/earthbooat
