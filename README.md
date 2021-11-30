@@ -13,6 +13,8 @@
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
   
  <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="300" height="200"/> </a> </p>
+ 
+ ![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
 
 
 <h3 align="left">👾 〢 Programming language 👾 〢</h3>
@@ -54,9 +56,8 @@
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
 
-![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
 
-<img src="https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2" alt="Discord Banner 2"/>
+
 
 
   
