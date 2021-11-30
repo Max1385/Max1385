@@ -8,10 +8,6 @@
 
 ┣🔨 › Discord.js Developer
 
-┣📋 › When I start something, I see it through to the end!
-
-┣😁 › He/Him
-
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
 
 
