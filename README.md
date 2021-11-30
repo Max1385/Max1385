@@ -54,8 +54,9 @@
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
 
-<p align="left"> <a href="https://discord.com/api/guilds/831073014887088148/widget.json" target="_blank" rel="noreferrer"> <img src="https://discord.com/api/guilds/831073014887088148/widget.json" alt="javascript" width="200" height="200"/> </a> </p>
+![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
 
+<img src="https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 
   
