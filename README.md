@@ -12,6 +12,7 @@
 
 ┗📌 › Joined Discord: 2019
   
+ > 
   
 <h3 align="left">📡 〢 My Discord Server 〢📡</h3>
 <p align="left">
@@ -57,7 +58,7 @@
   
 <p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="200"/> </a> </p>
 
-> test
+
 
 
 
