@@ -12,7 +12,7 @@
 
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
   
- <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="200" height="200"/> </a> </p>
+ <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="300" height="200"/> </a> </p>
 
 
 <h3 align="left">👾 〢 Programming language 👾 〢</h3>
