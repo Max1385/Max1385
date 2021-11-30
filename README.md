@@ -11,6 +11,8 @@
 ┣🔨 › Discord.js Developer
 
 ┗📌 › Join my Discord Server https://discord.gg/3a2zaAXjDK
+  
+ <p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248566199533628/max_pb.jpg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">👾 〢 Programming language 👾 〢</h3>
@@ -35,7 +37,7 @@
 🔗 ➥ Invite now: https://dsc.gg/earthbooat
   
   
-<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248036802883604/PicsArt_11-30-03.27.42.png" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248036802883604/PicsArt_11-30-03.27.42.png" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/835255847927414845/915248678594310194/PicsArt_10-08-01.58.09_2.jpg" alt="javascript" width="40" height="40"/> </a> </p>
   
  
   
