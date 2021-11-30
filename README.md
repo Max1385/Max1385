@@ -51,7 +51,7 @@
   
 🗴 Send me a friend request or a direct message!
   
-<p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="400" height="100"/> </a> </p>
+<p align="left"> <a href="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/discord.jpg" alt="javascript" width="200" height="200"/> </a> </p>
 
 
 
