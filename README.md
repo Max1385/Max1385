@@ -76,21 +76,7 @@
 
 
 
-<script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
-<script type="text/javascript">
-    discordWidget.init({
-        serverId: '831073014887088148',
-        title: 'Discord Widget Title',
-        join: false,
-        alphabetical: false,
-        theme: 'dark',
-        hideChannels: ['Channel Name 1', 'Channel Name 2'],
-        showAllUsers: true,
-        allUsersDefaultState: true
-    });
-    discordWidget.render();
-</script>
-<div class="discord-widget"></div>
+
 
 
   
