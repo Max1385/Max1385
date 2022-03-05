@@ -41,7 +41,7 @@
   
 ➥ With this bot you have access to cool fun commands like huge kiss kill and so on!
   
-➥ Moderation and Epic Fun!
+➥ Epic Fun!
   
 ➥ Utility!
   
