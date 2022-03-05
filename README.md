@@ -1,5 +1,4 @@
-![20211205_201738](https://user-images.githubusercontent.com/91845380/147142482-bb4f8179-7b86-4194-9f16-f9947e623fb7.gif)
-
+![maxbanner_abgeändert](https://user-images.githubusercontent.com/91845380/156880385-40a5950a-a6e8-4c54-ba04-871c57e1502f.png)
 ###          Hi, I'm Max and I like to code Discord bots! In the following you can see my "About me 🔮
 
 
