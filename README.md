@@ -1,10 +1,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770636457043034112?idleMessage=Aktuell%20wird%20bei%20mir%20keine%20Statusmeldung%20auf%20Discord%20angezeigt.%20:D)](https://discord.com/users/770636457043034112)
 
+
 ## Hallo, ich bin Max!
-![](https://cdn.discordapp.com/attachments/1026949697933430887/1043863509399765042/max.gif)
-
----------
-
 So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine Webseite, auf der du ein paar Dinge über mich erfahren kannst. [Klicke Hier](https://max1385.carrd.co), um zur Seite zu gelangen.
 
 ---------
