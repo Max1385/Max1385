@@ -28,3 +28,7 @@ So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Max1385&show_icons=true)  
 
 ---------
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:770636457043034112)
