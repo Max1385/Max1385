@@ -31,4 +31,4 @@ So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/apiidleMessage=:Aktuell wird bei mir keine Statusmeldung auf Discord angezeigt. :D/770636457043034112)](https://discord.com/users/770636457043034112)
+[![Discord Presence](https://lanyard.cnrad.dev/api/idleMessage=:Aktuell wird bei mir keine Statusmeldung auf Discord angezeigt. :D/770636457043034112)](https://discord.com/users/770636457043034112)
