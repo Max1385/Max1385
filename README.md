@@ -6,15 +6,20 @@ So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine
 
 ---------
 
-### Mein Discord-Server
+### Mein Discord-Server:
 
  ![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
 
 ---------
 
-### Programmier-Sprachen, mit denen ich arbeite
+### Skills:
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
 
 ---------
 
