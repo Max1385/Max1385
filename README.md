@@ -31,4 +31,4 @@ So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:770636457043034112)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/770636457043034112)
