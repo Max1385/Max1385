@@ -13,8 +13,8 @@ So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine
 ---------
 
 ### Programmier-Sprachen, mit denen ich arbeite
-<img src="https://cdn.discordapp.com/attachments/894955032313733192/1043892027840012399/javascript_logo_1.png" width="100" />
-<img src="https://cdn.discordapp.com/attachments/894955032313733192/1043891078400573460/Python-logo-notext.svg_1_1.png" width="100" />
+<div align="center">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 ---------
 
