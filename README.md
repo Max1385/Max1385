@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770636457043034112?idleMessage=Aktuell%20wird%20bei%20mir%20keine%20Statusmeldung%20auf%20Discord%20angezeigt.%20:D)](https://discord.com/users/770636457043034112)
 
-# Hallo, ich bin Max! 👋
+# Hey, I'm Max! 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=026ADD&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Discord+Server+Owner+(1%2C4K%2B);Designer;Discord+Server+Moderator;Hobby+Programmer;Always+learning+new+things;My+Discord-Server%3A+https%3A%2F%2Fdsc.gg%2Ferde" alt="Typing SVG" /></a>
 
