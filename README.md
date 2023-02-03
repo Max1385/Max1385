@@ -10,7 +10,7 @@
 
 So viel gibt es eigentlich gar nicht über mich zu erzählen, aber ich habe eine Webseite, auf der du ein paar Dinge über mich erfahren kannst. [Klicke Hier](https://max1385.carrd.co), um zur Seite zu gelangen.
 
-![](https://komarev.com/ghpvc/?username=Max1385&label=Profilansichten&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Max1385&label=Profilansichten&color=blue&style=plastic)
 
 
 ---------
