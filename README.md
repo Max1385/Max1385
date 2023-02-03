@@ -17,7 +17,7 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/Max1385)
+[![Skills](https://skillicons.dev/icons?i=py,html,css,wasm)](https://github.com/Max1385)
  
  
 ---------
