@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770636457043034112?idleMessage=Aktuell%20wird%20bei%20mir%20keine%20Statusmeldung%20auf%20Discord%20angezeigt.%20:D)](https://discord.com/users/770636457043034112)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770636457043034112?idleMessage=Currently%20there%20is%20no%20status%20message%20displayed%20on%20Discord.%20:D)](https://discord.com/users/770636457043034112)
 
 # Hey, I'm Max! 👋
 
@@ -10,6 +10,9 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 
 ## Skills & Tools/Software
 [![Skills](https://skillicons.dev/icons?i=py,js,nodejs,vscode,ps,discord,github,git,stackoverflow)](https://github.com/Max1385)
+
+## My Discord-Server (1,4K+)
+[![](https://img.shields.io/discord/831073014887088148?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
 
 ## Reach me
 
