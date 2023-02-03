@@ -15,9 +15,9 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 
 ---------
 
-### Mein Discord-Server:
+## Skills
 
- ![Discord Banner 2](https://discordapp.com/api/guilds/831073014887088148/widget.png?style=banner2)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/Max1385)
  
  
 ---------
