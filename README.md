@@ -8,7 +8,7 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 
 > ![](https://komarev.com/ghpvc/?username=Max1385&label=PROFILE+VIEWS&color=blue&style=plastic)
 ### My Discord-Server (1,4K+)
-[![](https://img.shields.io/discord/831073014887088148?label=discord&style=?style=for-the-badge&logo=appveyor&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
+[![](https://img.shields.io/discord/831073014887088148?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
 
 ## Skills & Tools/Software
 [![Skills](https://skillicons.dev/icons?i=py,js,nodejs,vscode,ps,discord,github,git,stackoverflow)](https://github.com/Max1385)
