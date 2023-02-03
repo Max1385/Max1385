@@ -5,7 +5,7 @@
 
 # Hallo, ich bin Max! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=026ADD&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Discord+Server+Owner+(1%2C4K%2B);Designer;Discord+Server+Moderator;Hobby+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=026ADD&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Discord+Server+Owner+(1%2C4K%2B) - https:/dsc.gg/erde;Designer;Discord+Server+Moderator;Hobby+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 
 There's not really that much to tell about me, but I have an ~~stupid~~ interesting website where you can learn a few things about me. [Click Here](https://max1385.carrd.co) to go to the site.
