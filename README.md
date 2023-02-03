@@ -7,12 +7,11 @@
 There's not really that much to tell about me, but I have an ~~stupid~~ interesting website where you can learn a few things about me. [Click Here](https://max1385.carrd.co) to go to the site.
 
 > ![](https://komarev.com/ghpvc/?username=Max1385&label=PROFILE+VIEWS&color=blue&style=plastic)
+### My Discord-Server (1,4K+)
+[![](https://img.shields.io/discord/831073014887088148?label=discord&style=plastic&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
 
 ## Skills & Tools/Software
 [![Skills](https://skillicons.dev/icons?i=py,js,nodejs,vscode,ps,discord,github,git,stackoverflow)](https://github.com/Max1385)
-
-## My Discord-Server (1,4K+)
-[![](https://img.shields.io/discord/831073014887088148?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
 
 ## Reach me
 
