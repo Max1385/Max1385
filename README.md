@@ -1,4 +1,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770636457043034112?idleMessage=Currently%20there%20is%20no%20status%20message%20displayed%20on%20Discord.%20:D)](https://discord.com/users/770636457043034112)
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/770636457043034112.png"><p/>
 
 # Hey, I'm Max! 👋
 
