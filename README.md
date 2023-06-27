@@ -19,4 +19,4 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https://discord.com/users/770636457043034112)
 
 ## Stats
-![Max' Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1385&theme=github_dark)
+![Max' Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1385&theme=transparent)
