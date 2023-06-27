@@ -20,7 +20,3 @@ To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https:
 
 ## Stats
 ![Max' Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1385&theme=github_dark)
-
-<p align="center" >
-     <img src="https://komarev.com/ghpvc/?username=Max1385&style=flat" alt=Max1385>
-</p>
