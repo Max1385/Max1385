@@ -20,4 +20,4 @@ To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https:
 
 ## Stats
 ![Max' GitHub stats](https://github-readme-stats.vercel.app/api?username=max1385&show_icons=true&theme=transparent)
-![Max' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max1385&layout=compact)
+![Max' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max1385&layout=compact&count-private=true)
