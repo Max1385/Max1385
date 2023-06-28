@@ -11,8 +11,8 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 ## My Discord-Server Gaming Community [GC] (1,4K+)
 [![](https://img.shields.io/discord/831073014887088148?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/gaming-community-831073014887088148)
 
-## Skills & Tools/Software
-[![Skills](https://skillicons.dev/icons?i=py,js,nodejs,vscode,ps,discord,github,git,stackoverflow)](https://github.com/Max1385)
+## Skills & Software/Apps I use
+[![Skills](https://skillicons.dev/icons?i=py,js,nodejs,vscode,ps,discord,github,git,stackoverflow,twitter,instagram)](https://github.com/Max1385)
 
 ## Reach me
 
