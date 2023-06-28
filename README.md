@@ -19,5 +19,5 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
 To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https://discord.com/users/770636457043034112)
 
 ## Stats
-![Max' GitHub stats](https://github-readme-stats.vercel.app/api?username=max1385&show_icons=true&theme=transparent)
+![Max' GitHub stats](https://github-readme-stats.vercel.app/api?username=max1385&theme=dark&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=max1385&theme=dark)](https://git.io/streak-stats)
