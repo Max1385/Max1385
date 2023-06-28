@@ -20,4 +20,4 @@ To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https:
 
 ## Stats
 ![Max' GitHub stats](https://github-readme-stats.vercel.app/api?username=max1385&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=max1385&theme=dark)](https://git.io/streak-stats)
