@@ -21,4 +21,3 @@ To contact me easily DM me on [Discord](https://discord.com): [`max1385`](https:
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1385&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1385&theme=transparent&utcOffset=1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max1385&show_icons=true&theme=transparent)
