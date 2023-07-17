@@ -17,7 +17,7 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
   - Send me a direct message on [Discord](https://discord.com): [`max1385`](https://discord.com/users/770636457043034112)
 
     <center>
-      <a href='https://discord.gg/VAR8sutF'>
+      <a href='https://discord.com/users/770636457043034112'>
         <img src="https://discord.c99.nl/widget/theme-1/770636457043034112.png" style='padding: 5px'>
       </a>
     </center>
