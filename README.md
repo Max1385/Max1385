@@ -22,7 +22,7 @@ There's not really that much to tell about me, but I have an ~~stupid~~ interest
       </a>
     </center>
 
-    - Send me an e-mail: `max1385@outlook.de`
+    - Or contact me via e-mail: [`max1385@outlook.de`](mailto:max1385@outlook.de)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1385&theme=transparent)
