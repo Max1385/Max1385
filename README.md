@@ -2,13 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=026ADD&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Discord+Server+Owner+(1%2C4K%2B);Designer;Discord+Server+Moderator;Hobby+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 > I am a designer and a <a href="https://docs.pycord.dev/en/stable/" target="_blank">
-	<img src="https://cdn.discordapp.com/emojis/1063211537008955495.webp?size=96&quality=lossless" width="20" height="20" align="center">
-</a> Bot-Developer!
-
+> 	<img src="https://cdn.discordapp.com/emojis/1063211537008955495.webp?size=96&quality=lossless" width="20" height="20" align="center">
+> </a> Bot-Developer!
+> 
 > Developer @ https://discord.gg/novaempire <a href="https://discord.com/partners" target="_blank">
-	<img src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="20" height="20" align="center">
-</a>
-
+> 	<img src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="20" height="20" align="center">
+> </a>
+> 
 > ![](https://komarev.com/ghpvc/?username=Max1385&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 ## My Discord-Server Gaming Community [GC] (1,4K+)
