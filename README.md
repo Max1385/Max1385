@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" width="30px" height="30px"> Hey, I'm Max! 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=026ADD&center=true&vCenter=true&width=500&lines=Discord+Bot+Developer;Discord+Server+Owner+(1%2C4K%2B);Designer;Discord+Server+Moderator;Hobby+Programmer;Always+learning+new+things" alt="Typing SVG" /></a>
 
-# I am a designer and a <a href="https://docs.pycord.dev/en/stable/" target="_blank">
+> I am a designer and a <a href="https://docs.pycord.dev/en/stable/" target="_blank">
 	<img src="https://cdn.discordapp.com/emojis/1063211537008955495.webp?size=96&quality=lossless" width="20" height="20" align="center">
 </a> Bot-Developer!
 
