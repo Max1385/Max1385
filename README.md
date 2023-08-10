@@ -3,7 +3,7 @@
 
 > I am a designer and a <a href="https://docs.pycord.dev/en/stable/" target="_blank">
 > 	<img src="https://cdn.discordapp.com/emojis/1063211537008955495.webp?size=96&quality=lossless" width="20" height="20" align="center">
-> </a> Bot-Developer!
+> </a> bot developer!
 > 
 > Developer @ https://discord.gg/novaempire <a href="https://discord.com/partners" target="_blank">
 > 	<img src="https://cdn.discordapp.com/emojis/1131312467830648842.gif?size=80&quality=lossless" width="20" height="20" align="center">
