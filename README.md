@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/770636457043034112" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/341160761470615563?bg=1f1f1f&borderRadius=5px">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/770636457043034112?bg=1f1f1f&borderRadius=5px">
 </a>
 
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" width="30px" height="30px"> Hey, I'm Max! 👋</h1>
