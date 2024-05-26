@@ -22,7 +22,6 @@
 ## How to reach me
 
   - Send me a direct message on [Discord](https://discord.com): [`max1385`](https://discord.com/users/770636457043034112)
-  - Or contact me via e-mail: [`max1385@outlook.de`](mailto:max1385@outlook.de)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1385&theme=transparent)
